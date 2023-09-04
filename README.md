@@ -42,7 +42,7 @@ https://github.com/singh-anushka/GameZone/assets/93376863/9800d2e1-1c13-44e0-87e
 Team_Name: Team4
 <html>
   <head>
-    <h1 style="color:pink";>Team Members</h1>
+    <h1 style="color🧡">Team Members</h1>
   </head>
 </html>
 Team_Members:
