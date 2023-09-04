@@ -40,7 +40,11 @@
 https://github.com/singh-anushka/GameZone/assets/93376863/9800d2e1-1c13-44e0-87e3-bc706106d286
 
 Team_Name: Team4
-
+<html>
+  <head>
+    <h1 style="color:pink">Team Members</h1>
+  </head>
+</html>
 Team_Members:
 1.Bindu
 2.Jahnavi
